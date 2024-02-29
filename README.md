@@ -48,12 +48,9 @@ Follow these steps to set up the project:
 2. **Install Dependencies**:  =>   "npm install"
 3. **Start the Server**:      =>   "npm run start"
    
-# how to build and and run docker image locally
+# There are two way to create docker imange - via terminal or docker destop
 Terminal command 
-1 command to create docker image 
 docker build -t basic-app3:v2 . 
-
-2 command to run docker image 
 
 # Docker Image Management
 
@@ -91,6 +88,8 @@ This repository contains instructions for managing Docker images on Docker Hub.
 - Ensure you have Docker installed and configured on your system before running the commands.
 # share img
 1. if image is public direct share url.
+
+
 
 
 
